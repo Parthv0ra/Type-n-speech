@@ -22,7 +22,7 @@ https://github.com/Parthv0ra/Type-n-speech
 
 
 ## 📷 Screenshot
-https://github.com/Parthv0ra/Type-n-speech/blob/main/Images/Screenshot%202022-07-19%20at%2011.28.50%20AM.png
+![App Screenshot](https://github.com/Parthv0ra/Type-n-speech/blob/main/Images/Screenshot%202022-07-19%20at%2011.28.50%20AM.png)
 
 
 
