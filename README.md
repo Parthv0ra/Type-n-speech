@@ -5,6 +5,7 @@ It is styled in a neumorphic manner. Play, pause, resume, rate, pitch, voice, an
 
 
 ## Hosted At
+https://github.com/Parthv0ra/Type-n-speech
 
 
 
@@ -21,6 +22,7 @@ It is styled in a neumorphic manner. Play, pause, resume, rate, pitch, voice, an
 
 
 ## 📷 Screenshot
+https://github.com/Parthv0ra/Type-n-speech/blob/main/Images/Screenshot%202022-07-19%20at%2011.28.50%20AM.png
 
 
 
